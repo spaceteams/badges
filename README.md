@@ -7,3 +7,7 @@ Include a badge like this:
 ![alternative text](https://raw.githubusercontent.com/spaceteams/badges/main/{file name}.svg)
 ```
 For example: ![Developed at Spaceteams](https://raw.githubusercontent.com/spaceteams/badges/main/developed-at-spaceteams.svg)
+
+---
+
+Visit us [Spaceteams GmbH](https://spaceteams.de)
