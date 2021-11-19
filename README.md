@@ -8,7 +8,3 @@ Include a badge like this:
 ```
 For example:  
 [![Developed at Spaceteams](https://raw.githubusercontent.com/spaceteams/badges/main/developed-at-spaceteams.svg)](https://spaceteams.de)
-
----
-
-Visit us [Spaceteams GmbH](https://spaceteams.de)
